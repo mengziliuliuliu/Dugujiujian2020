@@ -7,5 +7,6 @@ public class DugujiujianApp {
         System.out.println("hello    辟邪剑法!");
         System.out.println("hello    辟邪剑法!");
         System.out.println("hello    辟邪剑法!");
+
     }
 }
